@@ -1,7 +1,7 @@
 Dump
 ====
 
-Simple helpers to print stl containers.
+Simple ostream overload to print stl containers.
 
 Example
 -------
